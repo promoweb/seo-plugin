@@ -1,6 +1,4 @@
 # Ultimate SEO Optimizer Suite
-
-[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/ultimate-seo-optimizer-suite?style=flat-square)](https://wordpress.org/plugins/ultimate-seo-optimizer-suite/)
 [![PHP Version Required](https://img.shields.io/badge/PHP-7.4%2B-8892BF.svg?style=flat-square)](https://php.net/)
 [![License](https://img.shields.io/badge/license-GPL--3.0-orange.svg?style=flat-square)](LICENSE)
 
