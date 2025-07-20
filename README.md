@@ -80,7 +80,6 @@ Run site-wide optimizations:
 3. Click "Run Selected Operations"
 
 ### Real-time Monitoring
-![Dashboard Preview](assets/images/dashboard-preview.png)
 
 ## Technologies
 - **Core**: WordPress Plugin API, REST API
